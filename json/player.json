@@ -1,0 +1,77 @@
+[
+    {
+        "identifier": 1001,
+        "first_name": "Leonel",
+        "last_name": "Messi",
+        "team": "Argentina",
+        "position": "Forward",
+        "image": "Lionel_Messi_WC2022.jpg"
+    },
+    {
+        "identifier": 1002,
+        "first_name": "Cristiano",
+        "last_name": "Ronaldo",
+        "team": "Portugal",
+        "position": "Forward",
+        "image": "Cristiano-Ronaldo.jpeg"
+    },
+    {
+        "identifier": 1003,
+        "first_name": "Neymar",
+        "last_name": "Jr",
+        "team": "Brazil",
+        "position": "Striker",
+        "image": "neymar.jpeg"
+    },
+    {
+        "identifier": 1004,
+        "first_name": "Luis",
+        "last_name": "Suarez",
+        "team": "Uruguye",
+        "position": "Stricker",
+        "image": "suarez.jpeg"
+    },
+    {
+        "identifier": 1005,
+        "first_name": "Kevin",
+        "last_name": "De Bruyne",
+        "team": "Belgium",
+        "position": "Midfilder",
+        "image": "DBruyne.jpeg"
+    },
+    {
+        "identifier": 1006,
+        "first_name": "Mesut",
+        "last_name": "Ozil",
+        "team": "Germany",
+        "position": "Midfielder 1",
+        "image": "ozil.jpeg"
+    },
+    {
+        "identifier": 1007,
+        "first_name": "Alexis",
+        "last_name": "Sanchez",
+        "team": "Chilie",
+        "position": "Striker",
+        "image": "sanchez.jpeg"
+    },
+    {
+        "identifier": 1008,
+        "first_name": "Vinicius",
+        "last_name": "Jr",
+        "team": "Brazil",
+        "position": "Forward",
+        "image": "viniiii.jpeg"
+    },
+    {
+        "identifier": 1009,
+        "first_name": "Rodrigo",
+        "last_name": "Goes",
+        "team": "Brazil",
+        "position": "Forward",
+        "image": "rodrigo.jpeg"
+    }
+    
+
+   
+]
